@@ -1,0 +1,81 @@
+body{
+    background: #232323;
+    margin: 0;
+    font-family: "Montserrat" , "Avenir";
+}
+
+.body{
+    background-color: steelblue;
+}
+
+/* button styling************************************************************************************************************ */
+#stripe{
+    height: 30px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+.selected {
+     color: white;
+     background: steelblue;
+}
+#message{
+    display: inline-block;
+    width: 20%;
+}
+button {
+    border: none;
+    background: none;
+    height: 100%;
+    font-weight: 700;
+    color: steelblue;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.3s;
+    outline: none;
+}
+button:hover{
+    color: white;
+    background: steelblue;
+}
+/* ......................................................................................................................................*/
+#but{
+    text-align: center ;
+}
+
+/* square styling******************************************************************************************************************* */
+#con{
+    max-width: 660px;
+    margin: 20px auto;
+}
+.square {
+    width: 30%;
+    background: steelblue;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15%;
+    transition: background 0.6s;
+    
+}
+
+
+/* .......................................................................................................................................... */
+
+/* heading styling *****************************************************************************************************************************/
+h1{
+    color: cornsilk;
+    margin: 0 auto;
+    text-align: center;
+    background: steelblue;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 1.1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#colorDisplay{
+    font-size: 200%;
+}
+/* ....................................................................................................................................... */
+
